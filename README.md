@@ -3,7 +3,7 @@
  # The Ultimate PlayStation Experience.
  
 ![image](https://user-images.githubusercontent.com/74815634/134324677-16973d1f-028d-465e-9fbc-c7149ff853ef.png)
- # Repositories
+## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PS3-4K-Pro&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/PS3-4K-Pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation-TV&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/PlayStation-TV)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/DB)
