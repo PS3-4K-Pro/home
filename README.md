@@ -4,8 +4,7 @@
  # Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PS3-4K-Pro&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/PS3-4K-Pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation-TV&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/PlayStation-TV)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/DB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Game-XMLs&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Game-XMLs&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Packages&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Packages)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Firmwares&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Firmwares)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Magazines&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Magazines)
