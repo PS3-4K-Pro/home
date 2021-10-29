@@ -1,1 +1,12 @@
 ![image](https://user-images.githubusercontent.com/74815634/134324677-16973d1f-028d-465e-9fbc-c7149ff853ef.png)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PS3-4K-Pro&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation-TV&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Packages&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Firmwares&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Magazines&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=ScreenSavers&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Servers&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Stores&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Game-XMLs&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
