@@ -14,3 +14,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=ScreenSavers&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/ScreenSavers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Servers&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Stores&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Stores)
+
+ <details> <summary>Show more...</summary> </details>
