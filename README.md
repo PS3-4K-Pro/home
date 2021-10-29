@@ -1,10 +1,7 @@
-
-  
+<div align="center">
+ 
 ![image](https://user-images.githubusercontent.com/74815634/134324677-16973d1f-028d-465e-9fbc-c7149ff853ef.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanTeles&theme=github_dark&show_icons=true&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanTeles&langs_count=8&theme=github_dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PS3-4K-Pro&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/PS3-4K-Pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation-TV&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/PlayStation-TV)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/DB)
