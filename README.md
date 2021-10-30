@@ -1,5 +1,13 @@
 <div align="center">
 
+<!-- <div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div> -->
+ 
+ 
+<!-- ![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif) -->
+
+
  # The Ultimate PlayStation Experience.
  ![PS3-4K-Pro](https://user-images.githubusercontent.com/74815634/139526944-8dc6bf4a-c28e-4cfd-a1e0-563b2afaa29a.gif)
 <!--  ![image](https://user-images.githubusercontent.com/74815634/134324677-16973d1f-028d-465e-9fbc-c7149ff853ef.png) -->
@@ -17,21 +25,20 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Themes&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Stores)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Wallpapers&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Stores)
 
- <details> <summary>Show more...</summary> </details>
+ <details> <summary>Show more...</summary>
  
-<!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) -->
-
-
-
+</br>
  
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
-
 | Now Playing on Spotify                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
+</details> 
+</br>
+
  ![Visitor Count](https://profile-counter.glitch.me/{LuanTeles}/count.svg)
  
+  <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> 
  
 <!--
 <table>
