@@ -18,5 +18,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Wallpapers&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Stores)
 
  <details> <summary>Show more...</summary> </details>
+ 
+ ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+[![Visits Badge](https://badges.pufler.dev/visits/LuanTeles/git-badges)](https://badges.pufler.dev)
 
 ![Visitor Count](https://profile-counter.glitch.me/{LuanTeles}/count.svg)
