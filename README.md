@@ -2,7 +2,7 @@
 
  # The Ultimate PlayStation Experience.
  ![PS3-4K-Pro](https://user-images.githubusercontent.com/74815634/139526944-8dc6bf4a-c28e-4cfd-a1e0-563b2afaa29a.gif)
-
+<!--  ![image](https://user-images.githubusercontent.com/74815634/134324677-16973d1f-028d-465e-9fbc-c7149ff853ef.png) -->
 ## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PS3-4K-Pro&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/PS3-4K-Pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation-TV&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/PlayStation-TV)
@@ -19,8 +19,6 @@
 
  <details> <summary>Show more...</summary> </details>
  
- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-[![Visits Badge](https://badges.pufler.dev/visits/LuanTeles/git-badges)](https://badges.pufler.dev)
+<!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) -->
 
 ![Visitor Count](https://profile-counter.glitch.me/{LuanTeles}/count.svg)
