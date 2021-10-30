@@ -3,12 +3,22 @@
 <!-- <div align="center">
     <img src="example.svg" width="400" height="400" alt="css-in-readme">
 </div> -->
+    
+ <!-- To bolden the text, wrap it with two asterisks (*) (**word**)
+To italisize the text, wrap it with one asterisk (*) (*word*)
+To strikethrough the text, wrap it with two tildes (~) (~~word~~)
+To make a link, place the link text in brackets and the url in parentheses ([link](http://example.com))
+To make an example icon image, place an !, the alt text in brackets, and the url in parentheses (![github](/images/icon.png))
+ 
+https://guides.github.com/features/mastering-markdown/
+
+https://arturssmirnovs.github.io/github-profile-readme-generator/ --> 
  
  
 <!-- ![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif) -->
 
 
- # The Ultimate PlayStation Experience.
+ # **The Ultimate PlayStation Experience.**
  ![PS3-4K-Pro](https://user-images.githubusercontent.com/74815634/139526944-8dc6bf4a-c28e-4cfd-a1e0-563b2afaa29a.gif)
 <!--  ![image](https://user-images.githubusercontent.com/74815634/134324677-16973d1f-028d-465e-9fbc-c7149ff853ef.png) -->
 ## Repositories
@@ -25,7 +35,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Themes&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Stores)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Wallpapers&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Stores)
 
- <details> <summary>Show more...</summary>
+<details> <summary>Show more...</summary>
  
 </br>
  
@@ -38,7 +48,7 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/{LuanTeles}/count.svg)
  
-  <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> 
+<!-- <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
  
 <!--
 <table>
