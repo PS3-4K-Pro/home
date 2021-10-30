@@ -17,5 +17,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Themes&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Stores)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Wallpapers&theme=github_dark&show_icons=true)](https://github.com/LuanTeles/Stores)
 
-
  <details> <summary>Show more...</summary> </details>
+
+![Visitor Count](https://profile-counter.glitch.me/{LuanTeles}/count.svg)
