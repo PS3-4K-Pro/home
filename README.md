@@ -26,6 +26,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation-TV&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PlayStation-TV)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Avatars&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Avatars)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Packages&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Packages)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Firmwares&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Firmwares)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Magazines&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Magazines)
