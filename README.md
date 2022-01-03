@@ -24,8 +24,6 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 ## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PS3-4K-Pro&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PS3-4K-Pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation-TV&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PlayStation-TV)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Avatars&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Avatars)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Packages&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Packages)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Firmwares&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Firmwares)
@@ -35,6 +33,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Stores&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Stores)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Themes&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Themes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Wallpapers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Wallpapers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
 
 <details> <summary>Show more...</summary>
  
