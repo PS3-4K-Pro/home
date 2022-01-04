@@ -9,15 +9,19 @@ To italisize the text, wrap it with one asterisk (*) (*word*)
 To strikethrough the text, wrap it with two tildes (~) (~~word~~)
 To make a link, place the link text in brackets and the url in parentheses ([link](http://example.com))
 To make an example icon image, place an !, the alt text in brackets, and the url in parentheses (![github](/images/icon.png))
- 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a>
+ &nbsp; non-breaking space: &nbsp;. A non-breaking space is a space that will not break into a new line.
+ ![playstation_logo_full](https://user-images.githubusercontent.com/74815634/148012698-1d3c040b-5029-474d-bdab-4ec6037a0550.gif) Logo Sony not cropped
+
 https://guides.github.com/features/mastering-markdown/
 
 https://arturssmirnovs.github.io/github-profile-readme-generator/ --> 
- 
- 
+     
 <!-- ![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif) -->
 
-
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74815634/148012603-74dc6d2a-ca29-481e-a6f2-a276ebad2c11.gif?raw=true" width="100" />
+    
  # **The Ultimate PlayStation Experience.**
  ![PS3-4K-Pro](https://user-images.githubusercontent.com/74815634/139526944-8dc6bf4a-c28e-4cfd-a1e0-563b2afaa29a.gif)
 <!--  ![image](https://user-images.githubusercontent.com/74815634/134324677-16973d1f-028d-465e-9fbc-c7149ff853ef.png) -->
