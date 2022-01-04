@@ -51,13 +51,14 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <!-- <details> <summary>Show more...</summary>  </details> -->
 
 ## Support
-
+Discussion and Support can be found on Telegram.
+    
 | Website     | Language
 |-------------|----------
 | [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro)     | [Portuguese](https://t.me/ps34kpro)
 | [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro_universal)     | [English](https://t.me/ps34kpro_universal)
 
-![](https://visitor-badge.glitch.me/badge?page_id=LuanTeles)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&left_text=My%20Page%20Visitors)
     
  <!-- ![Visitor Count](https://profile-counter.glitch.me/{LuanTeles}/count.svg) -->
  
