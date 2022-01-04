@@ -44,6 +44,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Xil&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Xil)
 ## Exploit
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=HEN&theme=github_light&show_icons=true)](https://github.com/LuanTeles/HEN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Hosts&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Hosts)
 <details> <summary>Show more...</summary>
     
  
