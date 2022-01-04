@@ -45,41 +45,34 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 ## Exploit
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=HEN&theme=github_light&show_icons=true)](https://github.com/LuanTeles/HEN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Hosts&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Hosts)
-<details> <summary>Show more...</summary>
-    
- 
-</br>
- 
-| Now Playing on Spotify                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
-</details> 
+    <!-- <details> <summary>Show more...</summary>  </details>  -->
 </br>
+
+## Support [](https://visitor-badge.glitch.me/badge?page_id=LuanTeles)
+
+
+| Website     | Language
+|-------------|----------
+| [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]()     | [Portuguese](https://t.me/ps34kpro)
+| [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]()     | [English](https://t.me/ps34kpro_universal)
+
+
+
+
+Portuguese: 
+</br>
+English: [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro_universal)
+
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/LuanTeles/)
+<!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro) -->
 
  ![Visitor Count](https://profile-counter.glitch.me/{LuanTeles}/count.svg)
  
 <!-- <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
+
  
-<!--
-<table>
-  <thead>
-    <tr>
-      <th>Top Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row --> <!--
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row --> <!--
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
--->
