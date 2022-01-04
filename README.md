@@ -51,8 +51,12 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <!-- <details> <summary>Show more...</summary>  </details> -->
 
 ## 📫 Support
-Discussion and Support can be found on Telegram.
-    
+</br>
+</br>
+
+*Discussion and Support can be found on Telegram.*
+</br>
+</br>
 | Website     | Language
 |-------------|----------
 | [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro)     | [Portuguese](https://t.me/ps34kpro)
