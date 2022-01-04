@@ -21,19 +21,19 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
  # **The Ultimate PlayStation Experience.**
  ![PS3-4K-Pro](https://user-images.githubusercontent.com/74815634/139526944-8dc6bf4a-c28e-4cfd-a1e0-563b2afaa29a.gif)
 <!--  ![image](https://user-images.githubusercontent.com/74815634/134324677-16973d1f-028d-465e-9fbc-c7149ff853ef.png) -->
-## Projects
+## 🧰 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PS3-4K-Pro&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PS3-4K-Pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation-TV&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PlayStation-TV)
     
-## Exploits
+## ⚙️ Exploits
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=HEN&theme=github_light&show_icons=true)](https://github.com/LuanTeles/HEN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Hosts&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Hosts)
 
-## Database
+## 📉 Databases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
 
-## Resources
+## 📁 Resources
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Avatars&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Avatars)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Billboards&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Billboards)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Channels&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Channels)
@@ -50,7 +50,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Xil&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Xil)
 <!-- <details> <summary>Show more...</summary>  </details> -->
 
-## Support
+## 📫 Support
 Discussion and Support can be found on Telegram.
     
 | Website     | Language
@@ -58,8 +58,10 @@ Discussion and Support can be found on Telegram.
 | [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro)     | [Portuguese](https://t.me/ps34kpro)
 | [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro_universal)     | [English](https://t.me/ps34kpro_universal)
 
+<img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="308" height="218" />
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&left_text=My%20Page%20Visitors)
-    
+
  <!-- ![Visitor Count](https://profile-counter.glitch.me/{LuanTeles}/count.svg) -->
  
 <!-- <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
