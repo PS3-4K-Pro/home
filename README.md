@@ -29,11 +29,11 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
 ## Resources
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Avatars&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Avatars)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Billboard&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Billboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Channels&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Channels)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Packages&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Packages)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Firmwares&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Firmwares)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Magazines&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Magazines)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation_Store_Ads&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PlayStation_Store_Ads)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=ScreenSavers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/ScreenSavers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Servers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Stores&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Stores)
