@@ -24,19 +24,24 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PS3-4K-Pro&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PS3-4K-Pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation-TV&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PlayStation-TV)
-## Data Base
+## Database
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
 ## Resources
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Avatars&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Avatars)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Channels&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Channels)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Packages&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Packages)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Firmwares&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Firmwares)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Magazines&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Magazines)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PlayStation_Store_Ads&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PlayStation_Store_Ads)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=ScreenSavers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/ScreenSavers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Servers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Stores&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Stores)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Themes&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Themes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Wallpapers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Wallpapers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Web_Pages&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Web_Pages)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Whats_New&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Whats_New)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Xil&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Xil)
 ## Exploit
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=HEN&theme=github_light&show_icons=true)](https://github.com/LuanTeles/HEN)
 <details> <summary>Show more...</summary>
