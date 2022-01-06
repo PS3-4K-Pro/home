@@ -58,7 +58,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 </br>
 </br>
 
-*Discussion and Support can be found on Telegram.*
+***Discussion and Support can be found on Telegram.***
 </br>
 </br>
 | Website     | Language
