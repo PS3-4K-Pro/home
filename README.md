@@ -61,10 +61,10 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 ***Discussion and Support can be found on Telegram.***
 </br>
 </br>
-| Website     | Language
-|-------------|----------
-| [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro)     | [Portuguese](https://t.me/ps34kpro)
-| [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro_universal)     | [English](https://t.me/ps34kpro_universal)
+| Website     | Language | Members
+|-------------|----------|----------
+| [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro)     | [Portuguese](https://t.me/ps34kpro) | 455
+| [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro_universal)     | [English](https://t.me/ps34kpro_universal) | 6
 
 <img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="308" height="218" />
 
