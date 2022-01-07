@@ -35,8 +35,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 ## 📉 Databases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Firmware-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB-Firmware-Update)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Whats-New&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB-Whats-New)
 
     
