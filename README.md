@@ -56,11 +56,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Whats_New&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Whats_New)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Xil&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Xil)
 
-##  📚 Translations
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Translations&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Translations)
-    
-    <!-- <details> <summary>Show more...</summary>  </details> -->
+<!-- <details> <summary>Show more...</summary>  </details> -->
 
 ## 📫 Support
 </br>
@@ -73,6 +69,13 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 |-------------|----------|----------
 | [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro)     | [Portuguese](https://t.me/ps34kpro) | 455
 | [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro_universal)     | [English](https://t.me/ps34kpro_universal) | 6
+
+</br>
+</br>
+
+<a href="https://github.com/LuanTeles/Translations" target="_blank">📚 **Translations**</a>
+
+***Help me translationg the files to all languages supported by the XMB™.***
 
 <img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="308" height="218" />
 
