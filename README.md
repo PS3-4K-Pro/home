@@ -55,7 +55,12 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Wallpapers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Wallpapers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Whats_New&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Whats_New)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Xil&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Xil)
-<!-- <details> <summary>Show more...</summary>  </details> -->
+
+##  📚 Translations
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Translations&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Translations)
+    
+    <!-- <details> <summary>Show more...</summary>  </details> -->
 
 ## 📫 Support
 </br>
