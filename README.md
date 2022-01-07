@@ -22,7 +22,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74815634/148012603-74dc6d2a-ca29-481e-a6f2-a276ebad2c11.gif?raw=true" width="100" />
     
- # **The Ultimate PlayStation Experience.**
+ # **The Ultimate PlayStation Experience**
  ![PS3-4K-Pro](https://user-images.githubusercontent.com/74815634/139526944-8dc6bf4a-c28e-4cfd-a1e0-563b2afaa29a.gif)
 <!--  ![image](https://user-images.githubusercontent.com/74815634/134324677-16973d1f-028d-465e-9fbc-c7149ff853ef.png) -->
 ## 🧰 Projects
