@@ -35,9 +35,9 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 ## 📉 Databases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB_Firmware_Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB_Firmware_Update)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Firmware-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB-Firmware-Update)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Update&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB_Whats_New&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB_Whats_New)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Whats-New&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB-Whats-New)
 
     
 ## 📁 Resources
@@ -53,7 +53,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Stores&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Stores)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Themes&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Themes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Wallpapers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Wallpapers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Whats_New&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Whats_New)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Whats-New&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Whats-New)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Xil&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Xil)
 
 <!-- <details> <summary>Show more...</summary>  </details> -->
