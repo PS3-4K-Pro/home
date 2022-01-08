@@ -63,8 +63,10 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 </br>
 
 ***Discussion and Support can be found on Telegram.***
+
 </br>
 </br>
+
 | Website     | Language | Members
 |-------------|----------|----------
 | [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro)     | [Portuguese](https://t.me/ps34kpro) | 455
@@ -79,7 +81,17 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 <img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="308" height="218" />
 
+</br>
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&left_text=My%20Page%20Visitors)
+</br>
+</br>
+
+<a href="${https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=HNHV28UKAJD8Q&source=url}">
+  <img height="32" src="https://github.com/everdrone/coolbadge/raw/master/badges/Paypal/Coffee/White/Big.png" />
+</a>
+
+</br>
 
  <!-- ![Visitor Count](https://profile-counter.glitch.me/{LuanTeles}/count.svg) -->
  
