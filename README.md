@@ -87,7 +87,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 </br>
 </br>
 
-<a href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=HNHV28UKAJD8Q&source=url">
+<a href="https://www.paypal.com/donate?hosted_button_id=CYCKJ8N4JMBBU">
   <img height="32" src="https://github.com/everdrone/coolbadge/raw/master/badges/Paypal/Coffee/White/Big.png" />
 </a>
 
