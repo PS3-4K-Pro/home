@@ -82,7 +82,27 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 </br>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&left_text=My%20Page%20Visitors)
+**You can reach me on**
+</br>
+  <!-- <a href="mailto:luan.teles@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> -->
+  <a href="https://twitter.com/LuanTeles" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+   <a href="https://facebook.com/luan.teles.5" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/luanteles" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+<!-- <a href="https://linkedin.com/in/luanteles" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> -->
+ <a href="https://t.me/LuanVATeles" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  
 </br>
 </br>
 
@@ -90,6 +110,12 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
   <img height="32" src="https://github.com/everdrone/coolbadge/raw/master/badges/Paypal/Coffee/White/Big.png" />
 </a>
 
+</br>
+</br>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&left_text=My%20Page%20Visitors)
+
+</br>
 </br>
 
  <!-- ![Visitor Count](https://profile-counter.glitch.me/{LuanTeles}/count.svg) -->
