@@ -16,7 +16,7 @@ html {
 }
 
 html {
-  font-size: 13px;
+  font-size: 14px;
   -ms-overflow-style: scrollbar;
   -webkit-tap-highlight-color: transparent;
 }
@@ -1982,7 +1982,7 @@ h6, .h6 {
 .hero-section,
 .hero-section__wrap {
   position: relative;
-  overflow: hidden;
+ // overflow: hidden;
 }
 
 .hero-section .container,
@@ -1995,7 +1995,8 @@ h6, .h6 {
 }
 
 .hero-section__wrap {
-  height: 100vh;
+   width: 100%;
+   height: 100vh;
 }
 
 .hero-section__wrap .title__heading {
@@ -2011,7 +2012,10 @@ h6, .h6 {
   left: 0;
   right: 0;
   bottom: 0;
-  position: absolute;
+  position: fixed;
+  object-fit: cover;
+  width: 100%;
+  height: 100vh;
 }
 
 .hero-section__option img {
@@ -2031,13 +2035,15 @@ h6, .h6 {
 .hero-section--image::before {
   content: "";
   display: block;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0);
   z-index: 1;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  position: absolute;
+  position: fixed;
+  width: 100%;
+  height: 100vh;
 }
 
 .hero-section--image * {
