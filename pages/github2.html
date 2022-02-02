@@ -1,79 +1,38 @@
 <html>
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PS3™ 4K Pro</title>
+    <link href="assets/css/waves.css" rel="stylesheet">
+
     <style>
-      body
-      {
-        background-color: rgb(47, 47, 47);
+      @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600&display=swap");
+
+      body {
+        margin: 0;
+        padding: 0;
+        /font-family: "Big Shoulders Display", cursive;
+        /height: 100px;
+		color: #ffff;
       }
-      .center1
-      {
-        position: absolute;
-        width: 75%;
-        top: 40%;
-        left: 50%;
-        transform: translateX(-50%) translateY(-40%);
-      }
-      .center2
-      {
-        position: absolute;
-        width: 75%;
-        top: 60%;
-        left: 50%;
-        transform: translateX(-50%) translateY(-60%);
-      }
-      .div1
-      {
-        position: absolute;
-        width: 30%;
-        height: 25%;
-        top: 50%;
-        left: 12.5%;
-        transform: translateY(-50%);
-        background-color: rgb(63, 63, 63);
-        border-style: solid;
-        border-width: 4px;
-        border-color: rgb(95, 95, 95);
-        font-family: monospace;
-        font-size: 16px;
-        font-weight: bold;
-        color: rgb(191, 191, 191);
-      }
-      .div1:hover
-      {
-        background-color: rgb(79, 79, 79);
-      }
-      .div2
-      {
-        position: absolute;
-        width: 30%;
-        height: 25%;
-        top: 50%;
-        right: 12.5%;
-        transform: translateY(-50%);
-        background-color: rgb(55, 55, 55);
-        border-style: solid;
-        border-width: 4px;
-        border-color: rgb(63, 63, 63);
-        font-family: monospace;
-        font-size: 16px;
-        font-weight: bold;
-        color: rgb(191, 191, 191);
-      }
-      a:link
-      {
-        color: rgb(191, 191, 191);
-      }
-      a:visited
-      {
-        color: rgb(159, 159, 159);
+	  
+	 table, th, td {
+		border: 2px solid white;
+		}
+
+      .content {
+        position: relative;
+        z-index: 1;
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.5);
+        border-radius: 25px;
       }
     </style>
-    <title>
-      Chrome Autoplay Demo
-    </title>
   </head>
-  <body>
-    <audio id="divAudio">
+    <body>
+	 <audio id="divAudio">
       <source src="https://luanteles.github.io/LuanTeles/assets/mp3/background.mp3" type="audio/mp3">
     </audio>
    
@@ -91,7 +50,6 @@
     </script>
 
     <div class="div1" onmousemove="playMusic()">
-      <div class="center1">
        <p>
           <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74815634/148012603-74dc6d2a-ca29-481e-a6f2-a276ebad2c11.gif?raw=true" width="100">
         </p>
