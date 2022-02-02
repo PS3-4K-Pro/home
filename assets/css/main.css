@@ -1100,9 +1100,9 @@ img {
 }
 
 h1,
-.h1 {
+//.h1 {
   font-family: inherit;
-  font-weight: 600;
+//  font-weight: 600;
   line-height: 1.33333;
   color: #1c1c1c;
   margin-top: 0;
@@ -1110,9 +1110,9 @@ h1,
 }
 
 h2,
-.h2 {
+//.h2 {
   font-family: inherit;
-  font-weight: 600;
+//  font-weight: 600;
   line-height: 1.33333;
   color: #1c1c1c;
   margin-top: 0;
@@ -1120,7 +1120,7 @@ h2,
 }
 
 h3,
-.h3 {
+//.h3 {
   font-family: inherit;
   font-weight: 600;
   line-height: 1.33333;
@@ -1130,7 +1130,7 @@ h3,
 }
 
 h4,
-.h4 {
+//.h4 {
   font-family: inherit;
   font-weight: 600;
   line-height: 1.33333;
@@ -1140,7 +1140,7 @@ h4,
 }
 
 h5,
-.h5 {
+//.h5 {
   font-family: inherit;
   font-weight: 600;
   line-height: 1.33333;
@@ -1150,7 +1150,7 @@ h5,
 }
 
 h6,
-.h6 {
+//.h6 {
   font-family: inherit;
   font-weight: 600;
   line-height: 1.33333;
