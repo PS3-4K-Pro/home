@@ -2032,10 +2032,11 @@ h6, .h6 {
   }
 }
 
+
 .hero-section--image::before {
   content: "";
   display: block;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.3);
   z-index: 1;
   top: 0;
   left: 0;
