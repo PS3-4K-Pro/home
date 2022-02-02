@@ -1982,7 +1982,7 @@ h6, .h6 {
 .hero-section,
 .hero-section__wrap {
   position: relative;
-  overflow: hidden;
+ // overflow: hidden;
 }
 
 .hero-section .container,
@@ -2297,7 +2297,7 @@ xslide
 }
 
 .hero-section.slide .hero-section__words {
-  overflow: hidden;
+ // overflow: hidden;
   vertical-align: top;
 }
 
