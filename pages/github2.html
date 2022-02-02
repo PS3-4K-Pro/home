@@ -1,0 +1,111 @@
+<html>
+  <head>
+    <style>
+      body
+      {
+        background-color: rgb(47, 47, 47);
+      }
+      .center1
+      {
+        position: absolute;
+        width: 75%;
+        top: 40%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-40%);
+      }
+      .center2
+      {
+        position: absolute;
+        width: 75%;
+        top: 60%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-60%);
+      }
+      .div1
+      {
+        position: absolute;
+        width: 30%;
+        height: 25%;
+        top: 50%;
+        left: 12.5%;
+        transform: translateY(-50%);
+        background-color: rgb(63, 63, 63);
+        border-style: solid;
+        border-width: 4px;
+        border-color: rgb(95, 95, 95);
+        font-family: monospace;
+        font-size: 16px;
+        font-weight: bold;
+        color: rgb(191, 191, 191);
+      }
+      .div1:hover
+      {
+        background-color: rgb(79, 79, 79);
+      }
+      .div2
+      {
+        position: absolute;
+        width: 30%;
+        height: 25%;
+        top: 50%;
+        right: 12.5%;
+        transform: translateY(-50%);
+        background-color: rgb(55, 55, 55);
+        border-style: solid;
+        border-width: 4px;
+        border-color: rgb(63, 63, 63);
+        font-family: monospace;
+        font-size: 16px;
+        font-weight: bold;
+        color: rgb(191, 191, 191);
+      }
+      a:link
+      {
+        color: rgb(191, 191, 191);
+      }
+      a:visited
+      {
+        color: rgb(159, 159, 159);
+      }
+    </style>
+    <title>
+      Chrome Autoplay Demo
+    </title>
+  </head>
+  <body>
+    <audio id="divAudio">
+      <source src="./assets/mp3/background.mp3" type="audio/mp3">
+    </audio>
+   
+    <script>
+      var vAudio = document.getElementById("divAudio");
+      var hasInit = false;
+      function playMusic()
+      {
+        if(!hasInit)
+        {
+          hasInit = true;
+          vAudio.play();
+        }
+      }
+    </script>
+
+    <div class="div1" onmousemove="playMusic()">
+      <div class="center1">
+        <center>[Play Music]</center>
+      </div>
+      <div class="center2">
+        <center>Hover over me!</center>
+      </div>
+    </div>
+
+    <div class="div2">
+      <div class="center1">
+        <center>Music: <a href="https://dova-s.jp/bgm/play14133.html">華めく王都</a></center>
+      </div>
+      <div class="center2">
+        <center>Credit: <a href="https://dova-s.jp/_contents/author/profile024.html">KK on DOVA-SYNDROME</a></center>
+      </div>
+    </div>
+  </body>
+</html>
