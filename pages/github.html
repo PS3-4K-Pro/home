@@ -32,9 +32,27 @@
       }
     </style>
   </head>
-  <body>
-    <div class="content">
-        <p>
+    <body>
+	 <audio id="divAudio">
+      <source src="https://luanteles.github.io/LuanTeles/assets/mp3/background.mp3" type="audio/mp3">
+    </audio>
+   
+    <script>
+      var vAudio = document.getElementById("divAudio");
+      var hasInit = false;
+      function playMusic()
+      {
+        if(!hasInit)
+        {
+          hasInit = true;
+          vAudio.play();
+        }
+      }
+    </script>
+
+	
+    <div class="content" onmousemove="playMusic()">
+       <p>
           <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74815634/148012603-74dc6d2a-ca29-481e-a6f2-a276ebad2c11.gif?raw=true" width="100">
         </p>
         <h1 id="-the-ultimate-playstation-experience-">
