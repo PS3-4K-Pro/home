@@ -3,12 +3,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PS3™ 4K Pro</title>
-    <link href="assets/css/waves.css" rel="stylesheet">
+    <link href="https://luanteles.github.io/LuanTeles/assets/css/waves.css" rel="stylesheet">
 
-    <style>
-      @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600&display=swap");
-
-      body {
+  </head>
+   <style>
+    body {
         margin: 0;
         padding: 0;
         /font-family: "Big Shoulders Display", cursive;
@@ -22,17 +21,22 @@
 
       .content {
         position: relative;
-        z-index: 1;
         max-width: 1000px;
         margin: 0 auto;
         text-align: center;
         background: rgba(0, 0, 0, 0.5);
         border-radius: 25px;
       }
+	  
+      .content:hover
+      {
+        background-color: rgb(79, 79, 79);
+		 z-index: 1;
+       
+      }
     </style>
-  </head>
-    <body>
-	 <audio id="divAudio">
+  <body>
+    <audio id="divAudio">
       <source src="https://luanteles.github.io/LuanTeles/assets/mp3/background.mp3" type="audio/mp3">
     </audio>
    
@@ -50,6 +54,7 @@
     </script>
 
     <div class="div1" onmousemove="playMusic()">
+		<div class="content">
        <p>
           <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74815634/148012603-74dc6d2a-ca29-481e-a6f2-a276ebad2c11.gif?raw=true" width="100">
         </p>
@@ -218,6 +223,14 @@
         <p>
           <img src="https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&amp;left_text=My%20Page%20Visitors" alt="visitor badge">
         </p>
+    <!-- Wave PS4 Style -->
+    <div class="wave">
+      <div class="wave--one"></div>
+      <div class="wave--two"></div>
+      <div class="wave--three"></div>
+    </div>
+      </div>
+    </div>
     </div>
   </body>
 </html>
