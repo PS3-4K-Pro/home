@@ -7,7 +7,6 @@ body {
   top: 0;
   transform: rotate(80deg);
   left: 0;
-  z-index: 6;
 }
 
 .wave > div {
@@ -22,26 +21,22 @@ body {
   position: fixed;
   top: 3%;
   left: 10%;
-  z-index: 6;
 }
 
 .wave--one {
   background: #0af;
   animation: drift 7000ms infinite linear;
-  z-index: 6;
 }
 
 .wave--two {
   animation: drift 3000ms infinite linear;
   opacity: 0.1;
   background: black;
-  z-index: 6;
 }
 
 .wave--three {
   animation: drift 7500ms infinite linear;
   background-color: #77daff;
-  z-index: 6;
 }
 
 @keyframes drift {
