@@ -134,6 +134,7 @@ img {
   .container {
     width: 990px;
     max-width: 100%;
+	font-size: 12px;
   }
 }
 
@@ -141,6 +142,7 @@ img {
   .container {
     width: 1170px;
     max-width: 100%;
+	font-size: 18px;
   }
 }
 
