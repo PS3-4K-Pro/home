@@ -78,7 +78,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 ***Help me to translate the files to all languages supported by XMB™.***
 
-<img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="308" height="218" />
+<img align="center" alt="GIF" src="https://luanteles.github.io/LuanTeles/media/img/coding.gif" width="308" height="218" />
 
 </br>
 
