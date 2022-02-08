@@ -1957,7 +1957,7 @@ h1, .h1 {
 }
 
 .title__action:last-child {
-  margin-bottom: 0;
+  margin-bottom: 45px;
 }
 
 .title-01--11 .title__heading {
@@ -1997,7 +1997,9 @@ h1, .h1 {
 .hero-section__wrap .container {
   z-index: 2;
   top: 50%;
-  position: relative;
+  position: fixed;
+    left: 0;
+  right: 0;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
