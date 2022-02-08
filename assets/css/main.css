@@ -2021,7 +2021,7 @@ h1, .h1 {
   bottom: 0;
   position: fixed;
   object-fit: cover;
-  width: 100%;
+  width: 100vh;
   height: 100vh;
 }
 
@@ -2032,7 +2032,7 @@ h1, .h1 {
   position: absolute;
   z-index: -1;
   object-fit: cover;
-  width: 100%;
+  width: 100vh;
   height: 100vh;
 }
 
