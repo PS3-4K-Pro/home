@@ -48,7 +48,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Magazines&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Magazines)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Pages&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Pages)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Podcasts&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Podcasts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PSX-Place&repo=Podcasts&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PSX-Place)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PSX-Place&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PSX-Place)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=ScreenSavers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/ScreenSavers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Servers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Stores&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Stores)
