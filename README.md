@@ -114,8 +114,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 </br>
 </br>
-
-![Visitor Badge](https://visitor-badges.glitch.me?username=LuanTeles&repo=LuanTeles)
+  
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&left_text=My%20Page%20Visitors)
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&left_text=My%20Page%20Visitors) -->
 
