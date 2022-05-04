@@ -33,7 +33,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=HEN&theme=github_light&show_icons=true)](https://github.com/LuanTeles/HEN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Hosts&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Hosts)
 
-## 🛠️Payload
+## 🛠️Payloads
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Cobra&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Cobra)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Mamba&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Mamba)
 
