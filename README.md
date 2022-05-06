@@ -37,8 +37,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 ## 📉 Databases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Updates&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Game-News&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB-Game-News)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Updates&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Game-News&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB-Game-News)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Firmware-Updates&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB-Firmware-Updates)
     
 ## 📁 Resources
