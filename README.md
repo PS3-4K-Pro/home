@@ -18,8 +18,6 @@ https://guides.github.com/features/mastering-markdown/
 
 https://arturssmirnovs.github.io/github-profile-readme-generator/ --> 
      
-<!-- ![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif) -->
-
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74815634/148012603-74dc6d2a-ca29-481e-a6f2-a276ebad2c11.gif?raw=true" width="100" />
     
  # **The Ultimate PlayStation Experience**
@@ -33,26 +31,34 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=HEN&theme=github_light&show_icons=true)](https://github.com/LuanTeles/HEN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Hosts&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Hosts)
 
+## 🛠️Payloads
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Cobra&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Cobra)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Mamba&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Mamba)
+
 ## 📉 Databases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Updates&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Game-News&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB-Game-News)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Updates&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Game-XMLs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Game-News&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB-Game-News)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=DB-Firmware-Updates&theme=github_light&show_icons=true)](https://github.com/LuanTeles/DB-Firmware-Updates)
     
 ## 📁 Resources
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Avatars&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Avatars)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Billboards&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Billboards)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Channels&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Channels)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Packages&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Packages)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Firmwares&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Firmwares)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Flash&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Flash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=IDPS&theme=github_light&show_icons=true)](https://github.com/LuanTeles/IDPS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Magazines&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Magazines)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Packages&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Packages)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Pages&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Pages)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Podcasts&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Podcasts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=PSX-Place&theme=github_light&show_icons=true)](https://github.com/LuanTeles/PSX-Place)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=ScreenSavers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/ScreenSavers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Servers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=SoundTracks&theme=github_light&show_icons=true)](https://github.com/LuanTeles/SoundTracks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Stores&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Stores)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Themes&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Themes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Translations&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Translations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Wallpapers&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Wallpapers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Whats-New&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Whats-New)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Xil&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Xil)
@@ -109,13 +115,15 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 </br>
 
 <a href="https://www.paypal.com/donate?hosted_button_id=CYCKJ8N4JMBBU">
-  <img height="32" src="https://github.com/everdrone/coolbadge/raw/master/badges/Paypal/Coffee/White/Big.png" />
+  <img height="32" src="https://user-images.githubusercontent.com/74815634/162164120-b667dd83-2780-4b8e-8fb4-e25c52f03d0b.png" />
 </a>
 
 </br>
 </br>
+  
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&left_text=My%20Page%20Visitors)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&left_text=My%20Page%20Visitors)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanTeles.visitor-badge&left_text=My%20Page%20Visitors) -->
 
 </br>
 </br>
