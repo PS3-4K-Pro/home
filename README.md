@@ -47,6 +47,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Channels&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Channels)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Firmwares&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Firmwares)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Flash&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Flash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Guides&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Guides)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=IDPS&theme=github_light&show_icons=true)](https://github.com/LuanTeles/IDPS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Magazines&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Magazines)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanTeles&repo=Packages&theme=github_light&show_icons=true)](https://github.com/LuanTeles/Packages)
